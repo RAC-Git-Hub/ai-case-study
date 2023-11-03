@@ -12,8 +12,8 @@ An Effective Altruist focuses on finding better ways to help humanity and put in
 
 The name of the company of interest is Anthropic, PBC. Anthropic, PBC is a private company. There are limitations to researching private companies since much of their data is not publicly disclosed. Therefore, the information following is derived from various resources, but at times may only reflect partial sets of facts and information.
 
-Anthropic formed their corporation as a PBC, a Public Benefit Corporation, in hopes of making profits while doing public good. 
-    >"The PBC form allows the company’s board of directors to simultaneously pursue the pecuniary interests of stockholders along with the best interests of those materially affected by the company’s conduct and the specific public benefit mission stated in Anthropic’s certificate of incorporation, which is to “responsibly develop and maintain advanced AI for the long-term benefit of humanity.”"(Anthropic Long-Term Benefit Trust, 2023)
+Anthropic formed their corporation as a PBC, a Public Benefit Corporation, in hopes of making profits while doing public good
+>"The PBC form allows the company’s board of directors to simultaneously pursue the pecuniary interests of stockholders along with the best interests of those materially affected by the company’s conduct and the specific public benefit mission stated in Anthropic’s certificate of incorporation, which is to “responsibly develop and maintain advanced AI for the long-term benefit of humanity.”"(Anthropic Long-Term Benefit Trust, 2023)
 
 * When was the company incorporated?
 
@@ -33,11 +33,11 @@ Several employees who worked for openAI had very focused beliefs on two things: 
 Because Anthropic, PBC is a privately held company, they do not have public stock offerings. However, Anthropic has raised significant capital through several rounds of funding since their recent inception in 2021. Just a few months into incorporation, Anthropic, PBC had raised $124 million dollars to kickstart their vision to create more reliable, general AI systems. (“Anthropic raises $124 million to build more reliable, general AI systems
 May 28, 2021●1 min read") (Anthropic Raises $124 Million to Build More Reliable, General AI. . ., 2023).
 Most recently,
-    >"Starting work on our own neural network required increased funding. Anthropic's creators needed to raise hundreds of millions of dollars to purchase the ultra-powerful processors needed to train AI models. One of the startup's first investors was Google's cloud division, which invested $300 million in it for a 10% stake in the project. In addition, the terms of the deal obligated the young company to use Google Cloud computing resources for its work.
-    >
-    >At the end of 2022, Anthropic received funding totaling $700 million. Of this, $500 million was invested by Alameda Research, a subsidiary of the famous cryptocurrency exchange FTX, which later went bankrupt. The founder and head of the exchange, Sam Bankman-Fried, was personally present on the list of investors at the Series B stage. It is worth noting that Anthropic is associated with the now-popular “effective altruism” movement, which Bankman-Fried and other famous entrepreneurs from Silicon Valley spoke positively about. Apparently, this, in particular, was the reason for the favor towards the startup.
-    >
-    >Funding for the development of the innovative neural network Anthropic AI Claude continued in 2023. In May, the startup raised $450 million in another round of investment, which included Spark Capital, Menlo Ventures and Sound Ventures. The communications platform Zoom and the investment arm of Salesforce also invested in it. In September 2023, Amazon announced plans to sponsor Anthropic, PBC for a huge amount of $4 billion (the first tranche will be $1.25 billion). The deal will see Amazon Web Services (AWS) become the startup's primary cloud computing provider. In addition, Amazon will receive a minority stake in the enterprise."
+>"Starting work on our own neural network required increased funding. Anthropic's creators needed to raise hundreds of millions of dollars to purchase the ultra-powerful processors needed to train AI models. One of the startup's first investors was Google's cloud division, which invested $300 million in it for a 10% stake in the project. In addition, the terms of the deal obligated the young company to use Google Cloud computing resources for its work.
+>
+>At the end of 2022, Anthropic received funding totaling $700 million. Of this, $500 million was invested by Alameda Research, a subsidiary of the famous cryptocurrency exchange FTX, which later went bankrupt. The founder and head of the exchange, Sam Bankman-Fried, was personally present on the list of investors at the Series B stage. It is worth noting that Anthropic is associated with the now-popular “effective altruism” movement, which Bankman-Fried and other famous entrepreneurs from Silicon Valley spoke positively about. Apparently, this, in particular, was the reason for the favor towards the startup.
+>
+>Funding for the development of the innovative neural network Anthropic AI Claude continued in 2023. In May, the startup raised $450 million in another round of investment, which included Spark Capital, Menlo Ventures and Sound Ventures. The communications platform Zoom and the investment arm of Salesforce also invested in it. In September 2023, Amazon announced plans to sponsor Anthropic, PBC for a huge amount of $4 billion (the first tranche will be $1.25 billion). The deal will see Amazon Web Services (AWS) become the startup's primary cloud computing provider. In addition, Amazon will receive a minority stake in the enterprise."
 (Andreev, 2023)
 
 ## Business Activities
@@ -54,20 +54,21 @@ Anthropic, PBC's intended customer is anyone using AI - individuals and society.
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 The solution that Anthropic, PBC offers that its competitors do not or cannot offer is the core of their mission:
-    >"to ensure transformative AI helps people and society flourish." 
+>"to ensure transformative AI helps people and society flourish." 
 (Pbc, 2023)
 Although Anthropic, PBC's competitors may market themselves to be similar-minded,   
-    >"Anthropic sets itself apart from OpenAI and other AI companies through its commitments to research and safety. By researching why AI makes the decisions that it does, Anthropic aims to gear AI towards outcomes which are beneficial to society as a whole." (Cerebral Valley : A Brief History of Anthropic (and Claude), n.d.) accessed on October 30, 2023
+>"Anthropic sets itself apart from OpenAI and other AI companies through its commitments to research and safety. By researching why AI makes the decisions that it does, Anthropic aims to gear AI towards outcomes which are beneficial to society as a whole." (Cerebral Valley : A Brief History of Anthropic (and Claude), n.d.) accessed on October 30, 2023
 
 Perhaps one of the main advantages that Anthropic, PBC utilizes isn't just the technologies themselves as listed above, but in the fact that Anthropic PBC's founders were predominant leaders in the AI industry who crafted the latest AI technologies in use today. So, Anthropic, PBC is building upon what they have already created giving them a deep and intimate understanding of the current technologies.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 Anthropic, PBC utilizes a wide array of technologies in pursuit of its ambitious goals. Most recently and notably, 
-    >“Anthropic selects AWS as its primary cloud provider and will train and deploy its future foundation models on AWS Trainium and Inferentia chips, taking advantage of AWS’s high-performance, low-cost machine learning accelerators” (Amazon and Anthropic Announce Strategic Collaboration to Advance Generative AI, 2023)
+>“Anthropic selects AWS as its primary cloud provider and will train and deploy its future foundation models on AWS Trainium and Inferentia chips, taking advantage of AWS’s high-performance, low-cost machine learning accelerators” (Amazon and Anthropic Announce Strategic Collaboration to Advance Generative AI, 2023)
 Additionally, Anthropic PBC institutes cybersecurity best practices. Specifically, 
-    >Anthropic is implementing two-party controls, SSDF, SLSA, and other cybersecurity best practices. As model capabilities scale, we will need to further enhance security protections, moving beyond the above recommendations. This will necessarily be an iterative process in consultation with government and industry.
-    (Frontier Model Security, 2023)
+>Anthropic is implementing two-party controls, SSDF, SLSA, and other cybersecurity best practices. As model capabilities scale, we will need to further enhance security protections, moving beyond the above recommendations. This will necessarily be an iterative process in consultation with government and industry.
+(Frontier Model Security, 2023)
+
 Two-party controls require two keys to open the most secure vaults. SSDF (Secure Software Development Framework) is a set of development practices that helps to limit vulnerabilities in software. SLSA (Supply Chain Levels for Software Artifacts) is a sort of checklist of standards to follow during software development to help build a secure software environment that can reduce malicious intrusions thereby protecting the software system. 
 
 Collectively, the above technologies should offer the space to operate such a large agenda with ample cloud services and the most powerful computing capabilities coupled with a safety system of proper checks and balances. 
@@ -94,7 +95,7 @@ Anthropic PBC is a very small, albeit rapidly growing company. However, they are
 
 * What has been the business impact of this company so far?
 In Anthropic, PBC's short existence to date they have made their mark as an industry leader. 
-    >“It’s not for nothing that the Anthropic startup is called one of the most promising IT projects of our time. It was founded by a small group of enthusiasts and, to this day, is far from the scale of large corporations. However, the company's mission of not only developing artificial intelligence technologies, but also giving them humanity, is critical. The chatbot it created, Claude Anthropic AI, is only the first, essentially a trial product, and does not yet have any superpowers. But the foundations Anthropic is laying for humane and safe AI could have a tremendous impact on the entire artificial intelligence industry, pointing the way for larger-scale developments in the future.”
+>“It’s not for nothing that the Anthropic startup is called one of the most promising IT projects of our time. It was founded by a small group of enthusiasts and, to this day, is far from the scale of large corporations. However, the company's mission of not only developing artificial intelligence technologies, but also giving them humanity, is critical. The chatbot it created, Claude Anthropic AI, is only the first, essentially a trial product, and does not yet have any superpowers. But the foundations Anthropic is laying for humane and safe AI could have a tremendous impact on the entire artificial intelligence industry, pointing the way for larger-scale developments in the future.”
 (Andreev, 2023)
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
@@ -104,17 +105,17 @@ With Anthropic, PBC being a private company, research efforts were limiting in c
 * How is your company performing relative to competitors in the same field?
 
 Judging by some of the Big Tech investors and the increasing tranche of funds, it appears that Anthropic, PBC is doing quite well for itself which is an indication that they may be advancing better than their competition. And knowing that Anthropic, PBC has only been around since 2021, they are certainly becoming very well recognized as an industry leader as one of the top growing firms in this field. A quick take on the specifics that set them apart from their competition, 
-    >“What are the strengths and weaknesses of Anthropic versus its key competitors?
-    >Strengths
-    >•	Cutting-edge conversational AI using techniques like Constitutional AI and hybrid training
-    >•	Strong technical team with AI experts like Dario Amodei and Daniela Amodei
-    >•	Backing by top VCs like DCVC and Founders Fund
-    >•	Focus on AI safety, ethics, and transparency
-    >Weaknesses
-    >•	Smaller scale and resources versus giants like Google and Meta
-    >•	Less brand recognition with consumers than Alexa or Siri
-    >•	Narrower product focus than horizontally integrated rivals
-    >•	Still building out go-to-market and sales capabilities“
+>“What are the strengths and weaknesses of Anthropic versus its key competitors?
+>Strengths
+>•	Cutting-edge conversational AI using techniques like Constitutional AI and hybrid training
+>•	Strong technical team with AI experts like Dario Amodei and Daniela Amodei
+>•	Backing by top VCs like DCVC and Founders Fund
+>•	Focus on AI safety, ethics, and transparency
+>Weaknesses
+>•	Smaller scale and resources versus giants like Google and Meta
+>•	Less brand recognition with consumers than Alexa or Siri
+>•	Narrower product focus than horizontally integrated rivals
+>•	Still building out go-to-market and sales capabilities“
 (Anthropic Competitive Analysis 2023 &#8211; Business Analysis, 2023)
 
 ## Recommendations
@@ -136,7 +137,7 @@ If the current and future technologies can, in fact,  reverse-engineer your comp
 
 # Addendum
 
-* Sources used in cre4ating this case study
+* Sources used in creating this case study
 
 What is effective altruism? | Effective Altruism. (n.d.). https://www.effectivealtruism.org/articles/introduction-to-effective-altruism
 
