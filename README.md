@@ -35,6 +35,7 @@ Most recently,
 >"Starting work on our own neural network required increased funding. Anthropic's creators needed to raise hundreds of millions of dollars to purchase the ultra-powerful processors needed to train AI models. One of the startup's first investors was Google's cloud division, which invested $300 million in it for a 10% stake in the project. In addition, the terms of the deal obligated the young company to use Google Cloud computing resources for its work.
 >
 >At the end of 2022, Anthropic received funding totaling $700 million. Of this, $500 million was invested by Alameda Research, a subsidiary of the famous cryptocurrency exchange FTX, which later went bankrupt. The founder and head of the exchange, Sam Bankman-Fried, was personally present on the list of investors at the Series B stage. It is worth noting that Anthropic is associated with the now-popular “effective altruism” movement, which Bankman-Fried and other famous entrepreneurs from Silicon Valley spoke positively about. Apparently, this, in particular, was the reason for the favor towards the startup.
+>
 >Funding for the development of the innovative neural network Anthropic AI Claude continued in 2023. In May, the startup raised $450 million in another round of investment, which included Spark Capital, Menlo Ventures and Sound Ventures. The communications platform Zoom and the investment arm of Salesforce also invested in it. In September 2023, Amazon announced plans to sponsor Anthropic, PBC for a huge amount of $4 billion (the first tranche will be $1.25 billion). The deal will see Amazon Web Services (AWS) become the startup's primary cloud computing provider. In addition, Amazon will receive a minority stake in the enterprise."
 (Andreev, 2023)
 
@@ -52,8 +53,7 @@ Anthropic, PBC's intended customer is anyone using AI - individuals and society.
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 The solution that Anthropic, PBC offers that its competitors do not or cannot offer is the core of their mission:
->"to ensure transformative AI helps people and society flourish." 
-(Pbc, 2023)
+>"to ensure transformative AI helps people and society flourish." (Pbc, 2023)
 Although Anthropic, PBC's competitors may market themselves to be similar-minded,   
 >"Anthropic sets itself apart from OpenAI and other AI companies through its commitments to research and safety. By researching why AI makes the decisions that it does, Anthropic aims to gear AI towards outcomes which are beneficial to society as a whole." (Cerebral Valley : A Brief History of Anthropic (and Claude), n.d.) accessed on October 30, 2023
 
