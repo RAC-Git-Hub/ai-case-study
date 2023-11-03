@@ -136,7 +136,7 @@ If the current and future technologies can, in fact,  reverse-engineer your comp
 
 # Addendum
 
-* Sources used in cre4ating this case study
+* Sources used in creating this case study
 
 What is effective altruism? | Effective Altruism. (n.d.). https://www.effectivealtruism.org/articles/introduction-to-effective-altruism
 
